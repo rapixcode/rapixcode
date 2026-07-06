@@ -1,27 +1,24 @@
-<div align="center">
-  <br>
-  <pre>
-██████   █████  ██████  ██ ██   ██  ██████  ██████  ██████
-██   ██ ██   ██ ██   ██ ██  ██ ██  ██      ██    ██ ██    ██
-██████  ███████ ██████  ██   ███   ██      ██    ██ ██    ██
-██      ██   ██ ██      ██  ██ ██  ██      ██    ██ ██    ██
-██      ██   ██ ██      ██ ██   ██  ██████  ██████  ██████
-  </pre>
-  <p><strong>backend developer / python / middle</strong></p>
-  <br>
+<pre align="center">
+  ___   ___   ___  ___   ___   ___    _   ___
+ / _ \ / _ \ / _ \| __| / _ \ |   \  /_\ | _ \
+| (_) | (_) | (_) | _| | (_) | |) |/ _ \|   /
+ \___/ \___/ \___/|_|   \___/|___//_/ \_\_|_\
+</pre>
+<h3 align="center">backend developer / python / middle</h3>
+
+<p align="center">
   <a href="https://t.me/rapixdoto">
-    <img src="https://img.shields.io/badge/telegram-rapixdoto-1a1a1a?style=flat-square&logo=telegram&logoColor=white&labelColor=333333" alt="Telegram">
+    <img src="https://img.shields.io/badge/telegram-rapixdoto-000000?style=flat-square&logo=telegram&logoColor=white&labelColor=333333" alt="Telegram">
   </a>
-  <img src="https://img.shields.io/badge/python-3.11-333333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python">
-  <img src="https://img.shields.io/badge/status-building-1a1a1a?style=flat-square&labelColor=333333" alt="Status">
-  <br><br>
-</div>
+  <img src="https://img.shields.io/badge/python-3.11-000000?style=flat-square&logo=python&logoColor=white&labelColor=333333" alt="Python">
+  <img src="https://img.shields.io/badge/status-building-000000?style=flat-square&labelColor=333333" alt="Status">
+</p>
 
 ---
 
-```text
+<pre>
 о себе   /   about
-```
+</pre>
 
 Backend-разработчик на Python. Middle. Два года опыта.
 
@@ -38,30 +35,30 @@ MYSQL       LINUX       REST API
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rapixcode&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=555555&bg_color=0d0d0d&hide_border=true&count_private=true" height="160" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rapixcode&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=00000000" height="160" alt="stats">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapixcode&layout=compact&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d&hide_border=true" height="160" alt="languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapixcode&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="160" alt="languages">
 </div>
 
 ---
 
-```text
+<pre>
 projects   /   проекты
-```
+</pre>
 
 | project | description |
 | --- | --- |
-| [**blessware**](https://github.com/rapixcode/blessware) | Telegram-remote automation for GTA 5 RP. Roulette, anti-AFK, auto-reconnect, HWID licensing. |
-| [**CoC-checker**](https://github.com/rapixcode/CoC-checker) | Telegram bot for Clash of Clans account statistics. |
-| [**Party-For-Boost-tgBot**](https://github.com/rapixcode/Party-For-Boost-tgBot) | Telegram bot for the Dota 2 boosting community. |
-| [**Trilogy-Tools**](https://github.com/rapixcode/Trilogy-Tools-arizonarp-) | Tools for Arizona RP (Trilogy). |
-| [**xsoft-ahk**](https://github.com/rapixcode/xsoft-ahk) | Automation utilities. |
+| [**blessware**](https://github.com/rapixcode/blessware) | Telegram-remote automation for GTA 5 RP |
+| [**CoC-checker**](https://github.com/rapixcode/CoC-checker) | Telegram bot for Clash of Clans stats |
+| [**Party-For-Boost-tgBot**](https://github.com/rapixcode/Party-For-Boost-tgBot) | Dota 2 booster community bot |
+| [**Trilogy-Tools**](https://github.com/rapixcode/Trilogy-Tools-arizonarp-) | Tools for Arizona RP |
+| [**xsoft-ahk**](https://github.com/rapixcode/xsoft-ahk) | Automation utilities |
 
 ---
 
-```text
+<pre>
 contact   /   контакты
-```
+</pre>
 
 ```
 telegram    ->  @rapixdoto
@@ -70,14 +67,12 @@ github      ->  github.com/rapixcode
 
 <br>
 
-<div align="center">
-  <pre>
+<pre align="center">
          __
-        / _)  rapixcode
- .-----/__/
- |     kod — eto instrument
- '-----.._
+        / _)
+  .-----/__/
+  |   rapixcode
+  |   kod — eto instrument
+  '----------`
 
-
-  </pre>
-</div>
+</pre>
