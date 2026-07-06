@@ -25,14 +25,9 @@ stack
 
 ```
 PYTHON      GIT         POSTGRESQL
-MYSQL       LINUX       REST API
+MYSQL                   REST API
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rapixcode&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=00000000" height="160" alt="stats">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapixcode&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="160" alt="languages">
-</div>
 
 ---
 
