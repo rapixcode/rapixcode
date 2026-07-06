@@ -1,9 +1,3 @@
-<pre align="center">
-  ___   ___   ___  ___   ___   ___    _   ___
- / _ \ / _ \ / _ \| __| / _ \ |   \  /_\ | _ \
-| (_) | (_) | (_) | _| | (_) | |) |/ _ \|   /
- \___/ \___/ \___/|_|   \___/|___//_/ \_\_|_\
-</pre>
 <h3 align="center">backend developer / python / middle</h3>
 
 <p align="center">
@@ -72,7 +66,7 @@ github      ->  github.com/rapixcode
         / _)
   .-----/__/
   |   rapixcode
-  |   kod — eto instrument
+    |   kod — eto instrument
   '----------`
 
 </pre>
