@@ -1,67 +1,37 @@
-<h3 align="center">backend developer / python / middle</h3>
+<p align="center">
+  <img src="./assets/archive-cover.svg" alt="RAPIXCODE — profile archive" width="100%">
+</p>
 
 <p align="center">
-  <a href="https://t.me/rapixdoto">
-    <img src="https://img.shields.io/badge/telegram-rapixdoto-000000?style=flat-square&logo=telegram&logoColor=white&labelColor=333333" alt="Telegram">
-  </a>
-  <img src="https://img.shields.io/badge/python-3.11-000000?style=flat-square&logo=python&logoColor=white&labelColor=333333" alt="Python">
-  <img src="https://img.shields.io/badge/status-building-000000?style=flat-square&labelColor=333333" alt="Status">
+  <code>PERSONAL RECORD&nbsp; / &nbsp;NO. 001&nbsp; / &nbsp;PYTHON SYSTEMS</code>
 </p>
 
 ---
 
-<pre>
-о себе   /   about
-</pre>
+### 01 / DOSSIER
 
-Backend-разработчик на Python. Middle. Два года опыта.
+Backend-разработчик на Python · Middle · 2 года опыта.
 
-Пишу телеграм-ботов, системы автоматизации и инструменты для игровых сообществ.
-Основной проект — Blessware, платформа удалённой автоматизации для GTA 5 Role Play.
+Пишу Telegram-ботов, парсеры и инструменты автоматизации для игровых сообществ. Основной проект — **Blessware**, платформа удалённой автоматизации для GTA 5 Role Play.
 
-<pre>
-stack
-</pre>
+### 02 / TOOLCHAIN
 
-```
-PYTHON      GIT         POSTGRESQL
-MYSQL                   REST API
-```
+`PYTHON` &nbsp; `GIT` &nbsp; `POSTGRESQL` &nbsp; `MYSQL` &nbsp; `REST API`
 
+### 03 / PROJECT INDEX
 
----
+| FILE | PROJECT | ARCHIVE NOTE |
+|:---:|---|---|
+| `01` | [**Blessware**](https://github.com/rapixcode/blessware) | Telegram-remote automation for GTA 5 RP |
+| `02` | [**CoC-checker**](https://github.com/rapixcode/CoC-checker) | Telegram bot for Clash of Clans stats |
+| `03` | [**Party-For-Boost-tgBot**](https://github.com/rapixcode/Party-For-Boost-tgBot) | Dota 2 booster community bot |
+| `04` | [**Trilogy-Tools**](https://github.com/rapixcode/Trilogy-Tools-arizonarp-) | Tools for Arizona RP |
+| `05` | [**xsoft-ahk**](https://github.com/rapixcode/xsoft-ahk) | Automation utilities |
 
-<pre>
-projects   /   проекты
-</pre>
+### 04 / SIGNAL
 
-| project | description |
-| --- | --- |
-| [**blessware**](https://github.com/rapixcode/blessware) | Telegram-remote automation for GTA 5 RP |
-| [**CoC-checker**](https://github.com/rapixcode/CoC-checker) | Telegram bot for Clash of Clans stats |
-| [**Party-For-Boost-tgBot**](https://github.com/rapixcode/Party-For-Boost-tgBot) | Dota 2 booster community bot |
-| [**Trilogy-Tools**](https://github.com/rapixcode/Trilogy-Tools-arizonarp-) | Tools for Arizona RP |
-| [**xsoft-ahk**](https://github.com/rapixcode/xsoft-ahk) | Automation utilities |
+[`@rapixdoto` — Telegram](https://t.me/rapixdoto) &nbsp;·&nbsp; [GitHub](https://github.com/rapixcode)
 
----
-
-<pre>
-contact   /   контакты
-</pre>
-
-```
-telegram    ->  @rapixdoto
-github      ->  github.com/rapixcode
-```
-
-<br>
-
-<pre align="center">
-         __
-        / _)
-  .-----/__/
-  |   rapixcode
-    |   kod — eto instrument
-  '----------`
-
-</pre>
+<p align="center">
+  <sub><code>код — это инструмент&nbsp; / &nbsp;END OF RECORD</code></sub>
+</p>
