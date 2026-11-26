@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">RAPIXCODE — profile archive</title>
+  <desc id="desc">Monochrome archival dossier cover for a Python backend developer.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#858585" stroke-width="1" opacity=".12"/></pattern>
+    <pattern id="grain" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="2" cy="4" r=".7" fill="#eee" opacity=".2"/><circle cx="12" cy="10" r=".55" fill="#aaa" opacity=".18"/><circle cx="7" cy="15" r=".5" fill="#fff" opacity=".14"/></pattern>
+    <pattern id="barcode" width="13" height="44" patternUnits="userSpaceOnUse"><path d="M1 0v44M4 0v29M8 0v44M11 0v20" stroke="#c7c7c3" stroke-width="1.2" opacity=".72"/></pattern>
+  </defs>
+  <rect width="1200" height="340" fill="#101112"/><rect width="1200" height="340" fill="url(#grid)"/><rect width="1200" height="340" fill="url(#grain)"/>
+  <rect x="13" y="13" width="1174" height="314" fill="none" stroke="#696a6b" stroke-width="1"/>
+  <path d="M24 65H1176M24 286H1176" stroke="#7c7d7e" stroke-width="1" opacity=".72"/><path d="M24 70H1176M24 291H1176" stroke="#3f4041" stroke-width="1"/>
+  <g fill="#a5a6a5" font-family="monospace" font-size="12" letter-spacing="2"><text x="38" y="45">RAPIXCODE / PERSONAL ARCHIVE</text><text x="1160" y="45" text-anchor="end">RECORD 001 · OPEN</text><text x="38" y="316">PYTHON SYSTEMS&#160; / &#160;AUTOMATION&#160; / &#160;TELEGRAM BOTS</text><text x="1160" y="316" text-anchor="end">INDEXED&#160; · &#160;2026</text></g>
+  <g transform="translate(42 103)"><rect x="0" y="0" width="11" height="11" fill="#d2d2ce"/><rect x="16" y="0" width="11" height="11" fill="#737475"/><rect x="32" y="0" width="11" height="11" fill="#38393a"/><text x="0" y="139" fill="#e4e4e0" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="7">RAPIXCODE</text><text x="4" y="176" fill="#989998" font-family="monospace" font-size="14" letter-spacing="3">BACKEND DEVELOPER / PYTHON / MIDDLE</text></g>
+  <g transform="translate(1013 91)" fill="none" stroke="#8b8c8d" stroke-width="2"><path d="M58 8l12 12-9 9 8 8-12 12 5 6-8 8 3 11-7 7 7 8-6 11 7 7-9 9 4 11-8 8 8 9-10 14"/><path d="M56 7l5-5 16 16-6 6M54 25l-9-9-9 9 9 9M48 55l-13-13M58 97l12-12M51 119l-12-12"/><path d="M38 9l-7-7M81 17l7-7M33 42l-9 1M74 84l9 3M38 107l-8 9" opacity=".65"/><circle cx="60" cy="70" r="38" stroke-dasharray="2 7" opacity=".42"/><path d="M17 152h93M28 160h71" opacity=".55"/></g>
+  <g transform="translate(40 229)"><rect width="156" height="44" fill="url(#barcode)"/><path d="M0 49H156" stroke="#7f8080" stroke-width="1"/><text x="0" y="65" fill="#8f9090" font-family="monospace" font-size="9" letter-spacing="2">FILE HASH / R-001</text></g>
+  <g fill="#c4c4c0" opacity=".55"><path d="M1170 84h8v1h-8zM1170 89h4v1h-4zM1170 94h8v1h-8zM1170 99h6v1h-6z"/><path d="M1001 218h16v1h-16zM1001 223h9v1h-9zM1001 228h16v1h-16z"/></g>
+</svg>
